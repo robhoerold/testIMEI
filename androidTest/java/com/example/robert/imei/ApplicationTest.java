@@ -1,5 +1,4 @@
 package com.example.robert.imei;
-
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
