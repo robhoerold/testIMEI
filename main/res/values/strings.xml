@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMEI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="meins">Meins!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act2">Act2</string>
+    <string name="button1">Push here!</string>
+    <string name="button2">Now here!</string>
+    <string name="buttonForList">Show a list</string>
+    <string name="title_activity_list">Showing a list...</string>
+    <string name="title_activity_list_row">ListRow</string>
+</resources>
